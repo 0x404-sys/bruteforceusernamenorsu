@@ -15,13 +15,14 @@ first_name = "john"
 last_name = "doe"
 nickname = "jd"
 birth_year = "2000"
-Generate usernames:
 ```
+2. Run the generate.py
 ```
 python3 generate.py
 ```
-Optional: process the list:
 
+
+## Output
 ```
 python3 brute-it.py -w username_ideas.txt
 ```
