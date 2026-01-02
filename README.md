@@ -1,4 +1,4 @@
-# bruteforceusernamenorsu
+# FORGOT USERNAME NORSU PORTAL
 HOW TO USE?
 
 first edit the generate.py to your personal information, once you edit it run it by using command 
